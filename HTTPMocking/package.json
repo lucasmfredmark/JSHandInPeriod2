@@ -1,0 +1,17 @@
+{
+  "name": "httpmocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Lucas Meulengracht Fredmark <lucas.m.fredmark@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "nock": "^9.0.9",
+    "request": "^2.81.0"
+  }
+}
